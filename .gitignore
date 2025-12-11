@@ -1,0 +1,18 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Large Datasets (Optional, keep if small)
+# data/
+
+# Mac system files
+.DS_Store
